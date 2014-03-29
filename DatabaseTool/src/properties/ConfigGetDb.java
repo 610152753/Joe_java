@@ -15,7 +15,7 @@ public class ConfigGetDb
 	
 	public String user = null;
 	
-	public String password = null; 
+	public String password = null;
 	
 	public String execSql = null; 
 
