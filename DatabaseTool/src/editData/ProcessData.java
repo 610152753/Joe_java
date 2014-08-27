@@ -25,7 +25,6 @@ public class ProcessData
 		Logger logger = Logger.getLogger(ProcessData.class);
 		try
 		{
-			
 			logger.info("Main Start");
 			
 			String currentPath = System.getProperty("user.dir");
